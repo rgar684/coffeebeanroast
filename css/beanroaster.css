@@ -100,3 +100,28 @@ footer {
     top: 177px;
     z-index: 0;
 }
+
+#load_image {
+    width: 15%;
+}
+
+#upload_image {
+    width: 61%;
+}
+#pointer {
+    width: 24%;
+    align-content: center;
+}
+#roast_colour {
+    width: 80%;
+}
+
+#comment {
+    width: 20%;
+    align-content: left;
+}
+
+#Comments {
+    width:622px;
+    align-content: center;
+}
